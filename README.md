@@ -10,7 +10,7 @@ Welcome to the **MSK Protocol #4** website project for **Masco School Kanchan**!
 
 ## 📋 Project Overview
 
-**Masco School Kanchan** offers Pre-school to Grade 8 education and is set to expand through A Levels. Located in a peaceful green campus at Kanchan, Rupganj, this website provides an overview of the school's values, curriculum, facilities, and community impact.
+**Masco School Kanchan** offers Pre-school to Grade 9 education and is set to expand through A Levels. Located in a peaceful green campus at Kanchan, Rupganj, this website provides an overview of the school's values, curriculum, facilities, and community impact.
 
 ### 🎯 Key Features
 
@@ -83,8 +83,10 @@ When I'm not building websites, I’m usually:
 
 Got ideas or feedback? Let’s chat!
 
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email]
+- **LinkedIn**: [Bayazid Bostami Sinha](https://www.linkedin.com/in/bayazid-bostami-sinha-83b497311/)
+- **Email**: [notbayazid@gmail.com]
+- **Twitter (X)**: [@Bayazid838_](https://x.com/Bayazid838_)
+- **Discord**: [Bayazid#8384](https://discord.com/users/916961898153529374)
 
 ---
 
@@ -92,4 +94,3 @@ Let's make a positive impact—one website at a time!
 
 --- 
 
-Let me know if there's anything else you'd like to add or tweak!
