@@ -66,7 +66,7 @@ Welcome to the **MSK Protocol #4** website project for **Masco School Kanchan**!
 
 ## 🌟 Inspiration
 
-This website is inspired by my passion for meaningful projects that positively impact communities. Bringing quality education to rural areas through a modern, engaging platform felt like a project worth every line of code. Just as in *One Piece*, I’m driven by making a difference through small, purposeful steps—one project at a time.
+This website is inspired by my passion for meaningful projects that positively impact communities. Bringing quality education to rural areas through a modern, engaging platform felt like a project worth every line of code. Just as in *One Piece*, I’m driven by making a difference through small, purposeful steps—one project at a time. All credits goes to my master Fyad Nakib Shaan sir <3
 
 ---
 
